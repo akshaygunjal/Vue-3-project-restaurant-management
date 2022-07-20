@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Akshay",
+      "email": "gunjal.akshay06@gmail.com",
+      "password": "Akshay@09"
+    },
+    {
+      "name": "Trickster",
+      "email": "trickster@gmail.com",
+      "password": "Trickster@09",
+      "id": "2"
+    },
+    {
+      "name": "Jeet",
+      "email": "JeetMudliar@gmail.com",
+      "password": "Jeet@05",
+      "id": "3"
+    },
+    {
+      "name": "Salman Khan",
+      "email": "Salman786@gmail.com",
+      "password": "Salman786",
+      "id": "4"
+    },
+    {
+      "name": "rahul",
+      "email": "rahulkillekar@gmail.com",
+      "password": "rahul0905",
+      "id": "5"
+    },
+    {
+      "name": "Peter",
+      "email": "peterparker@gmail.com",
+      "password": "parkuuu020",
+      "id": "6"
+    },
+    {
+      "name": "Asuna",
+      "email": "Asuna@100T.in",
+      "password": "Asuna@100T",
+      "id": "FG6CfBW"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "KFC",
+      "address": "Bhayander West",
+      "contact": "9878654986",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Mcd",
+      "contact": "9873564982",
+      "address": "Borivali"
+    },
+    {
+      "id": "3",
+      "name": "Dominos",
+      "contact": "8090880766",
+      "address": "Andheri"
+    },
+    {
+      "name": "Fried Nation",
+      "address": "Mira Road",
+      "contact": "7391824654",
+      "id": "bVDncfh"
+    }
+  ]
+}
