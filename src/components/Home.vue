@@ -1,7 +1,7 @@
 <template>
 <Header />
 <h1>Hello {{User}}, Welcome On Home Page</h1>
-<table border="1px">
+<table class ="table" border="1px">
 <tr>
     <td>Id</td>
     <td>Name</td>
@@ -62,6 +62,10 @@ export default {
 </script>
 <style>
 
+.table{
+    margin-left:auto;
+    margin-right:auto;
+}
 td{
     width:180px;
     height:40px;
